@@ -11,7 +11,7 @@
   <img alt="RUST" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </span>
 </p>
-</span>
+<span>
 - Ethereum, BSC, Polygon, Arbitrum, Avalanche, Solana, Cosmos, Polkadot <br/>
 - Token, ICO, IDO <br/>
 - DeFi, DEX, NFT marketplace <br/>
